@@ -1,0 +1,19 @@
+# Credenciales - NUNCA subir
+config.py
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Archivos temporales
+*.log
+*.tmp
+
+# VS Code
+.vscode/
+
+# Datos reales - solo sintéticos en repo
+# input/*.csv  ← los dejamos porque son sintéticos
